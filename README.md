@@ -16,23 +16,14 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">lemonscripting</h1>
+👋 Hi, I’m @lemonscripting
 
-<br>
-<br>
-<div align="center"> 
-  <h2>Languages</h2>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemonscripting&count_private=true&show_icons=true&theme=onedark&layout=compact" align="middle"/>
-  <br>
-  <h2>Github Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=lemonscripting&count_private=true&show_icons=true&theme=onedark" />
-  <br>
-  <!--<img src="https://streak-stats.demolab.com/?user=lemonscripting&theme=radical%22%20width=%2249%%22%20alt=%22streaks%20graph" />-->
-  <br>
-  Visitor count
-  <br>
-  <br>
-  <br>
-  <img src="https://profile-counter.glitch.me/lemonscripting/count.svg" />
-</div>
+Currently a student in high school that takes up coding as an interest
+Specify in penetrating testing, userscript automation and front end development
+Languages learnt: VBScript, Html, Css, Js, C++
+
+
+<img src="https://profile-counter.glitch.me/lemonscripting/count.svg" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemonscripting&count_private=true&show_icons=true&theme=onedark&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=lemonscripting&count_private=true&show_icons=true&theme=onedark" />
+
