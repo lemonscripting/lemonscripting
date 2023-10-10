@@ -1,29 +1,36 @@
-<!--### Hi there 👋-->
+# 👋 About Me
+Hi, I’m @lemonscripting, a coding enthusiast currently navigating the exciting world of high school! 🎒 When I'm not wrestling with textbooks, you can usually find me dabbling in the mystical arts of code.
 
-<!--
-**lemonscripting/lemonscripting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 My Interests and Specializations
+- Penetrating testing 🔍
+- Userscript automation 🤖
+- Front-end development 🌟
 
-Here are some ideas to get you started:
+# 💻 Languages I've Conquered
+- VBScript
+- HTML
+- CSS
+- JavaScript
+- C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛡️ Code of Conduct
+When engaging in my coding adventures, I always adhere to some guiding principles:
 
+- **Always Abide by Ethical Rules:**
+  - Leave no damage 👼
+  - Do no harm 🚫💥
+  - Don't attack media 📰
+  - Don't attack infrastructure 🏗️
+  - Work non-violently for internet freedom 🌐✌️
 
-👋 Hi, I’m @lemonscripting
+- **Regulations:**
+  - Follow strictly to current country law 📜
+  - Ensure every penetration test conducted is granted official permission and documented to improve the system 📊
 
-Currently a student in high school that takes up coding as an interest
-Specify in penetrating testing, userscript automation and front end development
-Languages learnt: VBScript, Html, Css, Js, C++
+Keep watching this space! 🚀 I'm just getting started on this coding odyssey. Let's make some magic happen! ✨
 
+![Profile Count](https://profile-counter.glitch.me/lemonscripting/count.svg)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lemonscripting&count_private=true&show_icons=true&theme=onedark&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=lemonscripting&count_private=true&show_icons=true&theme=onedark)
 
-<img src="https://profile-counter.glitch.me/lemonscripting/count.svg" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemonscripting&count_private=true&show_icons=true&theme=onedark&layout=compact" />
-<img src="https://github-readme-stats.vercel.app/api?username=lemonscripting&count_private=true&show_icons=true&theme=onedark" />
-
+Feel free to connect and nerd out with me about code! 🤓 Let's turn those caffeine-fueled dreams into reality. 💫
