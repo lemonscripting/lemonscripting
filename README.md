@@ -17,10 +17,8 @@ Hi, I’m @lemonscripting, a coding enthusiast currently navigating the exciting
 When engaging in my coding adventures, I always adhere to some guiding principles:
 
 - **Always Abide by Ethical Rules:**
-  - Leave no damage 👼
   - Do no harm 🚫💥
-  - Don't attack media 📰
-  - Don't attack infrastructure 🏗️
+  - Leave no damage 👼
   - Work non-violently for internet freedom 🌐✌️
 
 - **Regulations:**
