@@ -7,11 +7,8 @@ Hi, I’m @lemonscripting, a coding enthusiast currently navigating the exciting
 - Front-end development 🌟
 
 # 💻 Languages I've Conquered
-- VBScript
-- HTML
-- CSS
-- JavaScript
-- C++
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lemonscripting&count_private=true&show_icons=true&theme=onedark&layout=compact)
 
 ## 🛡️ Code of Conduct
 When engaging in my coding adventures, I always adhere to some guiding principles:
@@ -26,9 +23,5 @@ When engaging in my coding adventures, I always adhere to some guiding principle
   - Ensure every penetration test conducted is granted official permission and documented to improve the system 📊
 
 Keep watching this space! 🚀 I'm just getting started on this coding odyssey. Let's make some magic happen! ✨
-
-![Profile Count](https://profile-counter.glitch.me/lemonscripting/count.svg)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lemonscripting&count_private=true&show_icons=true&theme=onedark&layout=compact)
-![Stats](https://github-readme-stats.vercel.app/api?username=lemonscripting&count_private=true&show_icons=true&theme=onedark)
 
 Feel free to connect and nerd out with me about code! 🤓 Let's turn those caffeine-fueled dreams into reality. 💫
